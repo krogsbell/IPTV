@@ -1,5 +1,5 @@
 # IPTV
-Kodi programs related to IPTV like GlowIPTV, PremiumIPTV, NTV.mx, ACE TV, ROQ TV, Rytec EPG download and recording.
+Kodi programs related to IPTV like Nordic Channels, GlowIPTV, PremiumIPTV, NTV.mx, ACE TV, ROQ TV, Rytec EPG download and recording.
 
 
 How to Krogsbell Addons on Kodi
