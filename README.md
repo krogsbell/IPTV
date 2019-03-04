@@ -2,7 +2,7 @@
 Kodi programs related to IPTV like Nordic Channels, GlowIPTV, PremiumIPTV, NTV.mx, ACE TV, ROQ TV, Rytec EPG download and recording.
 
 
-How to Krogsbell Addons on Kodi
+How to use Krogsbell Addons on Kodi
 
 Start by installing the Git Browser
 Download zip from https://github.com/tvaddonsco/script.module.commoncore/archive/master.zip and install zip in Kodi
