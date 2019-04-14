@@ -3,6 +3,7 @@ Kodi programs related to IPTV like Nordic Channels, GlowIPTV, PremiumIPTV, NTV.m
 
 The newest version 'Krogsbell IPTV Rec' can now be used with most IPTV systems that use connection details like:
 http://server:port/get.php?username=xxxx&password=xxxx&type=m3u_plus&output=ts
+
 You will be asked if you use Daylight Saving and your Time Zone and off you go.
 
 There is a menu command to make a clone of the Addon with a complete new name, so it is easy to try different configurations and even your own modifications of the code.
