@@ -1,0 +1,16 @@
+<playercorefactory>
+    <players>
+        <player name="VLC" type="ExternalPlayer" audio="false" video="true">
+            <filename>/usr/bin/vlc</filename>
+            <args>"{1}" -f --video-on-top</args>
+            <!-- <args>"{1}" --config=/home/hans/snap/vlc/common/vlcrc</args> -->
+            <hidexbmc>true</hidexbmc>
+            <hideconsole>true</hideconsole>
+            <warpcursor>none</warpcursor>
+        </player>
+    </players>
+
+    <rules action="prepend">
+        <rule name="Playtype" filetype="mkv|mp4|avi|ts" player="VLC"/>
+    </rules>
+</playercorefactory>
