@@ -1,12 +1,14 @@
 # IPTV
 Kodi programs related to IPTV like Nordic Channels, GlowIPTV, PremiumIPTV, NTV.mx, ACE TV, ROQ TV, Rytec EPG download and recording.
 
-The newest version 'Krogsbell IPTV Rec' can now be used with most IPTV systems that use connection details like:
+The newest version 'Krogsbell IPTV xxxx-xx-xx' can now be used with most IPTV systems that use connection details like:
 http://server:port/get.php?username=xxxx&password=xxxx&type=m3u_plus&output=ts
 
-You will be asked if you use Daylight Saving and your Time Zone and off you go.
+Make a text file with the connection details and name it with the first 3 letters to distinguish your IPTV provider.
 
 There is a menu command to make a clone of the Addon with a complete new name, so it is easy to try different configurations and even your own modifications of the code.
+
+You can also update the design oo a previous Krogsbell IPTV if you have used the Switch Addon
 
 
 How to use Krogsbell Addons on Kodi
