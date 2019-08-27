@@ -8,7 +8,7 @@ Make a text file with the connection details and name it with the first 3 letter
 
 There is a menu command to make a clone of the Addon with a complete new name, so it is easy to try different configurations and even your own modifications of the code.
 
-You can also update the design oo a previous Krogsbell IPTV if you have used the Switch Addon
+You can also update the design of a previous Krogsbell IPTV if you have used the Switch Addon
 
 
 How to use Krogsbell Addons on Kodi
