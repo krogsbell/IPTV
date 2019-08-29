@@ -1,0 +1,66 @@
+Hi Folks!
+
+
+
+I am a retired electrical engineer that started using the NTV.mx Kodi Addon to watch and record Danish television wherever I was with internet access.
+
+
+
+The NTV.mx has long gone, but I have maintained and updated the addon reguarely to work with IPTV based on .m3u or .m3u8 files or a link like:
+
+
+
+http://<url>/get.php?username=<>&password=<>&type=m3u_plus&output=ts from your IPTV supplier.
+
+
+
+If you use mine rytecepg.downloader and install FFMPEG on your device, you can record any program with a single click in the EPG.
+
+
+
+Stream all of your favourites sports, movies and tv series from your IPTV provider. Requires a registration and paid subscription. Please register at your IPTV supplier.
+
+Record or display one channel at a time and watch or record as many Direct channels as your hardware and internet can handle.
+
+Add multiroom to allow recording of more channels.
+
+Build in TV Guide that allows you one-click recording and watch or record from archive/catch up.
+
+Record recursively based on text search in your TV guide.
+
+Record from dr.dk nu and BBC iPlayer WWW with special versions of these addons and includes recording of subtitles.
+
+The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers or IPTV Suppliers.
+
+
+How to Install 'Krogsbell IPTV' on Kodi
+Start by installing the Git Browser
+Download zip from https://github.com/tvaddonsco/script.module.commoncore/archive/master.zip and install zip in Kodi
+Download zip from https://github.com/tvaddonsco/plugin.git.browser and install zip in Kodi
+Start Git Browser and Search by Addon ID: krogsbelliptv and install the newest version
+End Git Browser
+Without Git Browser find https://github.com/krogsbell/IPTV and download the .zip file you need.
+Make a text file with our IPTV information received from your IPTV Supplier.
+The information should look like:
+http://<url>/get.php?username=<>&password=<>&type=m3u_plus&output=ts
+If you have no IPTV supplier make a text file with just the text string 'none' or select the default none file.
+Yon can then select your own .m3u or ude the default direct channels.
+
+Enable 'Krogsbell IPTV'
+Start 'Krogsbell IPTV'
+In first box you can change the name of the Addon to your wish.
+Next box you can write a link to your IPTV Supplier.
+In the third box - you select the text file with your IPTV information.
+Your time zone is calculated automatically.
+You will then be warned that recording directory is not writeable – select OK
+You are now in the settings of the addon.
+On the recording tab set the recording path if you plan to record or disable recording and ffmpeg test.
+Then OK to start.
+The channels and EPG are collected in a local database each four hours of the day.
+Until the local database is completed you can watch your channels by selecting Streams and one of the white menu entries.
+You can use Search Channels to find your channels of interest and mark them Favorite of 'Krogsbell IPTV'. Then you only have to browse through the channels of your interest.
+Open the Favorites view and see all your channels with EPG to the left. With the menu you can watch the TV guide for the selected channel. Lines starting with green REC can be selected for recording just by hitting enter or you can start a Recursive recording for all programs with this title or you can modify the text to search for. Recording requires the installation of the program ffmpeg for your platform.
+To investigate further about the addon, consult the changelog.txt file in the program directory. 
+
+
+Have fun
